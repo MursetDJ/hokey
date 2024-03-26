@@ -1,2 +1,1 @@
-# hokey
-Es un aplicativo sobre una liga de hockey
+# Migthy Ducks Hockey League
